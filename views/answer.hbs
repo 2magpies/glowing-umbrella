@@ -1,0 +1,11 @@
+<h2>Answer the questions</h2>
+<form action='/questions/{{_id}}?_method=put' method='POST'>
+    <div>
+        <p><strong>{{title}}</strong></p>
+        <p>{{question}}</p>
+        <label>Type your answer here</label>
+        <input type='text' value='' name='answer' />
+    </div>
+    <input type='submit' value='Submit' />
+
+</form>
