@@ -1,6 +1,5 @@
 const express = require('express');
-
-// need our model when we get to our schema
+const Answer = require('../models/Answer');
 
 const router = express.Router();
 
