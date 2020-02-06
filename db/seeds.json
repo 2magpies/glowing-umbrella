@@ -1,12 +1,27 @@
 [
   {
-    "title": "How to help the homeless",
+    "title": "Helping the homeless",
     "question": "What can I do in the community to help the homeless population?",
     "answer": "donate toiletry items"
   },
   {
-    "title": "How to feed the hungry",
+    "title": "Help the hungry",
     "question": "What can I do to stop hunger?",
     "answer": "donate to food bank"
+  },
+  {
+    "title": "How to help pets",
+    "question": "What can I do to help homeless animals?",
+    "answer": "donate to the local shelter"
+  },
+  {
+    "title": "Sick Children",
+    "question": "How can I help sick children around the world?",
+    "answer": "donate blood or to the Red Cross"
+  },
+  {
+    "title": "Save the Earth",
+    "question": "What can I do to stop climate change?",
+    "answer": "ride your bike"
   }
 ]
